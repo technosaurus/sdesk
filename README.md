@@ -1,2 +1,2 @@
-![alt text](https://github.com/technosaurus/sdesk/raw/master/src/common/images/icon48.png "SDesk")
+![alt text](https://raw.github.com/technosaurus/sdesk/master/sdesk.png "SDesk")
 ================================================================================
